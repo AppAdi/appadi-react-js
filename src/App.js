@@ -5,7 +5,7 @@ import './stylesheet.css';
 
 function App(){
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path='/' element={<ListPokemon/>}/>
                 <Route path='/pokemon/:id' element={<DetailPokemon/>}/>
