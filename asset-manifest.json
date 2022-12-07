@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appadi-react-js/static/css/main.0a1bdc9a.css",
-    "main.js": "/appadi-react-js/static/js/main.2847222c.js",
+    "main.js": "/appadi-react-js/static/js/main.15fbf624.js",
     "static/js/787.ddc51ab9.chunk.js": "/appadi-react-js/static/js/787.ddc51ab9.chunk.js",
     "index.html": "/appadi-react-js/index.html",
     "main.0a1bdc9a.css.map": "/appadi-react-js/static/css/main.0a1bdc9a.css.map",
-    "main.2847222c.js.map": "/appadi-react-js/static/js/main.2847222c.js.map",
+    "main.15fbf624.js.map": "/appadi-react-js/static/js/main.15fbf624.js.map",
     "787.ddc51ab9.chunk.js.map": "/appadi-react-js/static/js/787.ddc51ab9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a1bdc9a.css",
-    "static/js/main.2847222c.js"
+    "static/js/main.15fbf624.js"
   ]
 }
