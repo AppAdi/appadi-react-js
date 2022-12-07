@@ -1,7 +1,7 @@
 {
   "name": "appadi-react-js",
   "version": "0.1.0",
-  "homepage": "https://appadi.github.io/appadi-react-js",
+  "homepage": "https://appadi.github.io/appadi-react-js/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

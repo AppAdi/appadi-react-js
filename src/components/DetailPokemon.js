@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
 import {Link, useParams} from 'react-router-dom';
 import axios from 'axios';
+import { isCompositeComponent } from "react-dom/test-utils";
 
 function DetailPokemon(){
 
-    const [data, setData] = useState([]);
+    const [data, setData] = useState();
     const params = useParams();
 
     useEffect(()=>{
@@ -22,6 +23,8 @@ function DetailPokemon(){
                 console.log(err);
             });  
     };
+
+    console.log(data);
 
     return(
 
